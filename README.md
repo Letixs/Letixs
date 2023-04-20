@@ -15,7 +15,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Letixs&layout=compact&hide_border=true&title_color=32CD32&text_color=32CD32&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Letixs&bg_color=0d1117&color=32CD32&line=32CD32&point=F8F8FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Letixs&theme=github-compact	)](https://github.com/Letixs/github-readme-activity-graph)
+
 
 <div align="center"> 
 <a href = "mailto:leticiaqueiroga13@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
